@@ -85,6 +85,10 @@ What?
 What?
 -----
 
+- Code / script development 
+- Applied math
+- The collaborative tools
+
 Code / script development 
 -------------------------
 
@@ -120,6 +124,10 @@ How ?
 
 How ?
 -----
+
+- Find and make teaching material
+- Motivate with practical analysis
+- Feedback from our course
 
 Find and make teaching material
 -------------------------------
