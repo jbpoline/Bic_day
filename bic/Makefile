@@ -32,4 +32,6 @@ notes: latex-notes
 	@echo "Build finished. The PDF is _build/$(FILE)-notes.pdf."
 
 clean:
-	rm $(BUILD)/$(FILE){,-notes}.{aux,log,nav,out,pdf,snm,tex,toc,vrb}
+# rm $(BUILD)/$(FILE){,-notes}.{aux,log,nav,out,pdf,snm,tex,toc,vrb}
+	rm $(BUILD)/$(FILE).*
+
