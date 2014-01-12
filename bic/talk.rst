@@ -61,7 +61,8 @@ The "Efficiency" argument:
 - Can I find out if there's a mistake?
 - How long to find out that there's a problem in the analysis ?
 - Knowing your tools - knowing them well enough to be fluent
-- learning the right tools : the difference between walking or a good motorbike
+- learning the right tools  
+   * the difference between walking or on a good motorbike
 
 Clarity / Empowering
 --------------------
@@ -130,8 +131,8 @@ Code / script development
 -------------------------
 
 - The "Loni" fantasy
-- The current tools : between brainvoyager (closed) and nipy (require programing skill) ?
-- I need to do data cleanup - but would like to down-weight rather than eliminate
+- The current tools : between brainvoyager (closed) and nipy (requires programing skill) ?
+- Example: I need to do data cleanup - but would like to down-weight rather than eliminate
 - Testing ? 
 - Visualization 
 - Some elements of distributed computing 
@@ -208,6 +209,7 @@ What worked - what didn't
    able to do, but it also made us some problems - we didn't teach workflow
    properly and it was relatively hard to write exercises.  Need to work out a
    better flow.  Working with Jonathan on this.
+
 * Details : curse and blessing - more curse than blessing 
 
 .. _The course link: http://practical-neuroimaging.github.io/
