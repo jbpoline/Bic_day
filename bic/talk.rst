@@ -5,6 +5,13 @@
 Teaching fMRI
 =============
 
+.. consider starting with some questions?
+.. What kind of researchers do we want to produce?
+.. What kind of researchers are we producing now?
+.. What does a bad neuroimaging researcher look like?
+.. What does a good neuroimaging researcher look like?
+.. How do we get from here to there?
+
 Teaching fMRI
 -------------
 
@@ -25,10 +32,9 @@ Why ?
 
 * We make fewer mistakes
 * We work more efficiently
-* We think more clearly - enabling to develop ideas
+* We think more clearly - enabling us to develop new ideas
 * We collaborate better (and more efficiently)
-* We allow other to build on our work
-
+* We allow others to build on our work
 
 Mistakes
 --------------------
@@ -36,11 +42,12 @@ Mistakes
 The "Mistakes" argument : an unpopular topic.
 
 - Ioannidis 2005
-- Annatomy of an Error
+- Anatomy of an Error
 - The Left/Right issue
 - The ADHD 1000 connectome
 
 .. Ioannidis : although many may not be convinced, the arguments are
+.. Add reference to Simmons analysis? http://sciencereview.berkeley.edu/article/false-positives/
 .. Glenn Begley and Lee Ellis "Raise standards for preclinical cancer research" Nature 483 (2012)
 .. L/R
 .. scripts contained an error - new release
@@ -53,14 +60,14 @@ The "Efficiency" argument:
 
 - Can I find out if there's a mistake?
 - How long to find out that there's a problem in the analysis ?
-- Knowing your tools - knowning them well to progress rapidely
-- learning the right tools : the difference between walking or a good motorbike 
+- Knowing your tools - knowing them well enough to be fluent
+- learning the right tools : the difference between walking or a good motorbike
 
-Clarity / Enpowering
+Clarity / Empowering
 --------------------
 
 * Knowing how to create the tools will free your mind for new ideas. 
-* New tools are constantly emmerging - but they never are exactly what's needed
+* New tools are constantly emerging - but they never are exactly what's needed
 * Constructing the tool may take time - it will save some. 
 
 .. Again : we need to empower students and researcher with the freedom to analyse the data the way they want, rather than having to re-use scripts and be constraint by those
@@ -81,8 +88,15 @@ A new era for collaborative science
 .. more or more open data - from post office to internet
 .. numpy competes with Matlab efficiently
 .. is the era of close science giving away to the era of open science, as did software development?
-.. bitkeeper from Sun // Linus Torvald git 
-.. example of analysis done with a chineese statistician
+.. The idea of open-science as social science - as open source is social coding.
+   Radical improvement in quality and productivity.
+.. Science as a social activity.  That is, that science is best and most
+   efficiently done by constant checking and improvement by many eyes.
+   http://en.wikipedia.org/wiki/Linus%27s_Law (first law on that page).
+   We'll get there when we share a language and tools to communicate the
+   analysis and data in a fluid way.
+.. bitkeeper from Sun // Linus Torvalds git 
+.. example of analysis done with a Chinese statistician
 .. data being reviewed : nature initiative
 
 Reproducibility
@@ -93,6 +107,9 @@ Building things such that they can be built upon
 * Accountability
     - Working such that the next post-doc will need less than a week to start progress 
     - Working such that others in the community can check / build upon
+
+.. ask audience how long a post-doc needs to get up and running analyzing
+   another post-doc's data at the moment.  How about meta-analysis within lab?
 
 * Openness 
     -  Working such that my colleague can check my work
@@ -113,8 +130,8 @@ Code / script development
 -------------------------
 
 - The "Loni" fantasy
-- The current tools : between brainvoyager (closed) and nipy (require programation skill) ?
-- I need to do scrubbing - but would like to downweight rather than eliminate
+- The current tools : between brainvoyager (closed) and nipy (require programing skill) ?
+- I need to do data cleanup - but would like to down-weight rather than eliminate
 - Testing ? 
 - Visualization 
 - Some elements of distributed computing 
@@ -141,6 +158,12 @@ In the near future :
 
 How ?
 =====
+
+.. Consider putting PNA experience above.  As in something like - we concluded
+   that we needed to teach students how to work with their data from the raw
+   files up to the final analysis.  We wanted to combine teaching about the
+   principles of analysis with practical experience of implementing toy analyses
+   and exploring them. Examples of PNA notebooks.
 
 How ?
 -----
@@ -180,6 +203,11 @@ What worked - what didn't
 * We relied on students to have more background than they did  
 
 * The IPython notebook helped greatly
+
+.. I think the IPython notebook pointed us at something we really wanted to be
+   able to do, but it also made us some problems - we didn't teach workflow
+   properly and it was relatively hard to write exercises.  Need to work out a
+   better flow.  Working with Jonathan on this.
 * Details : curse and blessing - more curse than blessing 
 
 .. _The course link: http://practical-neuroimaging.github.io/
@@ -210,4 +238,7 @@ Conclusion
    :width: 70%
    :align: center
 
+.. My point of that graphic in the Havana talk is that we the current teachers
+   have the history of the old system in us, so we are the Darth Vaders.  We
+   need to teach our students to be the Luke Skywalkers instead.
 
