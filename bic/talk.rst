@@ -5,6 +5,9 @@
 Teaching fMRI
 =============
 
+Teaching fMRI
+-------------
+
 By JB Poline and Matthew Brett
 
 Why - What - How
@@ -14,10 +17,10 @@ Why - What - How
 * Of the three - the what is the one changing 
 * Of the three - the how is the most delicate
 
-Why 
+Why ? 
 ==============
 
-Why 
+Why ?  
 --------------
 
 * We make fewer mistakes
@@ -60,8 +63,14 @@ A new era for collaborative science
 
 - specialization and rapid advances of science require collaboration
 - collaborations are mostly "internet" - even if you are sitting next door
-- new type of science at the frontiers of domains (eg: neurosynth, neurovault, neurobureau hackathon, etc)
+- new type of science at the frontiers of domains (eg: neurosynth, neurovault, brainspell, brainspell, neurobureau hackathon, etc)
+- more or more open data - from post office to internet
+- numpy competes with Matlab efficiently
+- decreasing the social barriers to increase work 
+- from social coding to social science ? from open source project to open source science ?
+- is the era of close science giving away to the era of open science, as did software development?
 
+bitkeeper from Sun // Linus Torvald git 
 
 Reproducibility
 ---------------
@@ -151,16 +160,28 @@ Motivate with practical analysis
 What worked - what didn't  
 ------------------------------------
 
-* We were young and ambitious
-* We relied on students to do a lot of external learning
-* We relied on the students to follow every course
+* We were young and ambitious 
+        - underestimating the task
+        -  
+* We relied on students to have more background than they did  
+* We often needed a lot of recap  
 * The IPython notebook helped greatly
 * Students with some reasonable background got something out of it
   others may be less :)
+* Several courses with dependencies:
+        - Shell / OS installs - Introduction to Python / IPython 
+        - Toolbelt of the collaborative computational scientist / Workflow (Git, Github, ...)
+        - Toolbelt of applied mathematics / statistics 
+        - The analysis pipeline (preprocessing to GLM) [rely on others to teach GLM?]
+        - Other Neuroimaging packages : ML / MV-Connectivity 
 
 Conclusion
 ----------
 
 * Make it so.
+
+.. image:: ../pics/darth.png
+   :width: 70%
+   :align: center
 
 
