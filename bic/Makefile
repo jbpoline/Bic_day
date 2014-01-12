@@ -2,7 +2,8 @@ FILE  = talk
 THEME = Copenhagen
 BUILD = _build
 #FLAGS = --theme=$(THEME) --stylesheet=preamble.txt --centerfigs=True --overlaybullets=False --codeblocks-use-pygments 
-FLAGS = --theme=$(THEME) --centerfigs=True --overlaybullets=False --codeblocks-use-pygments 
+FLAGS = --theme=$(THEME) --centerfigs=True --overlaybullets=False 
+#FLAGS = --theme=$(THEME) --centerfigs=True --overlaybullets=False --codeblocks-use-pygments 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  latex        to make LaTeX files"
