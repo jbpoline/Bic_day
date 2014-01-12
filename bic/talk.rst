@@ -143,8 +143,8 @@ What - Applied math
 * Applied statistics 
 * Signal processing
 * Image analysis 
-* Machine learning
-* Graph Theory  
+* Machine learning (supervised / unsupervised)
+* Graph Theory / ...
 
 The collaborative tools 
 -----------------------
@@ -169,41 +169,19 @@ How ?
 How ?
 -----
 
-- Find and make teaching material
-- Motivate with practical analysis
 - Feedback from our course
-
-Find and make teaching material
--------------------------------
-
-* Get the right material from online, many IP notebooks are available !
-        - there is not enough time / teaching resources : some things must be learnt online. 
-
-* Join forces with stat / CS / other departments 
-        - development of courses that combine theoretical and coding aspects
-        - BIDS
-
-
-Motivate with practical analysis
---------------------------------
-
-* Make the teaching close to the research project
-* Spend enough time that programing an analysis will be a confort zone
-
-* PNA experience
-        - From a 10 * 2 hours to 27 * 2h + ...
-        - 47 IPython notebooks
-
+- Motivate with practical analysis
+- Find and make teaching material
 
 What worked - what didn't  
 ------------------------------------
-
 
 * We were young and ambitious 
     - underestimating the task + goal too broad 
 * We relied on students to have more background than they did  
 
 * The IPython notebook helped greatly
+   - but makes teaching workflow harder 
 
 .. I think the IPython notebook pointed us at something we really wanted to be
    able to do, but it also made us some problems - we didn't teach workflow
@@ -215,7 +193,29 @@ What worked - what didn't
 .. _The course link: http://practical-neuroimaging.github.io/
 
 http://practical-neuroimaging.github.io/
- 
+
+
+Motivate with practical analysis
+--------------------------------
+
+* PNA experience
+        - From a 10 * 2 hours to 27 * 2h + ...
+        - 47 IPython notebooks
+
+* Make the teaching close to the research project
+* Spend enough time that programing an analysis will be a confort zone
+
+
+Find and make teaching material
+-------------------------------
+
+* Get the right material from online, many IP notebooks are available !
+        - there is not enough time / teaching resources : some things must be learnt online. 
+
+* Join forces with stat / CS / other departments 
+        - development of courses that combine theoretical and coding aspects
+        - BIDS
+
 
 What kind of curriculum ? 
 ------------------------------------
