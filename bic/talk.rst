@@ -32,7 +32,7 @@ Why ?
 
 * To make fewer mistakes
 * To work more efficiently
-* To think more clearly - enabling to develop new ideas
+* To do better science / new type of science 
 * To collaborate better (and more efficiently)
 * To allow others to build on our work
 
@@ -48,7 +48,6 @@ The "Mistakes" argument : an unpopular topic.
 
 .. Ioannidis : although many may not be convinced, the arguments are
 .. Add reference to Simmons analysis? http://sciencereview.berkeley.edu/article/false-positives/
-.. Glenn Begley and Lee Ellis "Raise standards for preclinical cancer research" Nature 483 (2012)
 .. L/R
 .. scripts contained an error - new release
 
@@ -58,14 +57,14 @@ Efficiency
 The "Efficiency" argument: 
 
 
-- Can I find out if there's a mistake?
-- How long to find out that there's a problem in the analysis ?
+- Can I find out if there's a mistake in the analysis ?
+- Can I find it quickly ?  
 - Knowing your tools well to progress rapidely 
-- learning the **right** tools  
+- Learning the **right** tools  
    * the difference between walking or on a good motorbike
 
-Clarity / Empowering
---------------------
+To do better / new science  
+----------------------------------
 
 * New tools are constantly emerging - but they never are exactly what I need
 * Knowing how to **create** the tools will free your mind for new ideas. 
@@ -76,14 +75,19 @@ Clarity / Empowering
 Collaboration
 -------------
 
-A new era for science: the collaborative science 
+A new era for science: the collaborative science on internet 
 
 - *Specialization* and rapid advances in science require *collaboration*
-- Collaborations today are mostly "internet" 
+- The best expertise is often found on internet : allows to do better science 
 - Internet collaborations allow a new type of science
-    * neuro{synth, vault, bureau}, hackathon, brainspell, etc
-    * shared tools and data are growing fast 
-- From social / open source coding to social / open source science ? 
+   * neuro{synth, vault, bureau} hackathons, brainspell,... 
+   * shared tools and data are growing fast 
+- From social/open source coding to social/open source science ? 
+
+
+.. image:: ../pics/cos.png
+   :width: 70%
+   :align: center 
 
 .. more or more open data - from post office to internet
 .. numpy competes with Matlab efficiently
@@ -103,15 +107,16 @@ A new era for science: the collaborative science
 Reproducibility
 ---------------
 
-Building things such that they can be built upon
+Fight the current state of things (Begley & Ellis): Building things such that they can be built upon
 
 * Openness 
     -  Working such that my colleague can check my work
 
 * Accountability
-    - Working such that the next post-doc will weeks to start progress / not months
+    - Working such that the next post-doc will need weeks to start progress - not months
     - Working such that others in the community can reproduce **and** build upon
 
+.. Glenn Begley and Lee Ellis "Raise standards for preclinical cancer research" Nature 483 (2012)
 .. ask audience how long a post-doc needs to get up and running analyzing
    another post-doc's data at the moment.  How about meta-analysis within lab?
 
@@ -122,15 +127,15 @@ What?
 What?
 -----
 
-- Code / script development 
-- The collaborative tools
-- Applied math
+- Code development / scripting 
+- The collaboration tools
+- The methods (applied mathematics aspects)
 
 Code / script development 
 -------------------------
 
-- The "LONI" fantasy
-- The current tools : between brainvoyager (closed) and nipy (requires programing skill) ?
+- The LONI "fantasy / paradox"
+- Use Brainvoyager (button press) or nipy (requires programing skill) ?
 - Example: I need to do data cleanup - but would like to down-weight rather than eliminate
 - Testing  
 - Visualization 
@@ -140,7 +145,7 @@ The collaborative tools
 -----------------------
 
 - For myself first - for others
-- Git / Github / Google docs  
+- Git / Github / Git Annex / Google docs  
 
 In the near future : 
 
@@ -172,7 +177,7 @@ How ?
 
 - Feedback from our course
 - Find and make the right teaching material
-- What kind of curriculum ? 
+- How do we organize the curriculum ? 
 
 What worked - what didn't  
 ------------------------------------
@@ -187,7 +192,7 @@ What worked - what didn't
 * We relied on students to have more background than they did  
 
 * The IPython notebook helped greatly
-   - but makes teaching workflow harder 
+   - but makes teaching the workflow harder 
 
 .. I think the IPython notebook pointed us at something we really wanted to be
    able to do, but it also made us some problems - we didn't teach workflow
@@ -216,7 +221,7 @@ Find and make the right teaching material
 * Spend enough time that programing an analysis will be a confort zone
 
 
-What kind of curriculum ? 
+Organize the curriculum  
 ------------------------------------
 
 * Several courses with dependencies:
