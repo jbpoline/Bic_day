@@ -2,8 +2,8 @@
 .. Teaching FMRI slides file, created by
    hieroglyph-quickstart on Sat Jan 11 20:01:57 2014.
 
-Teaching fMRI
-=============
+Teaching fMRI methods
+======================
 
 .. consider starting with some questions?
 .. What kind of researchers do we want to produce?
@@ -12,8 +12,8 @@ Teaching fMRI
 .. What does a good neuroimaging researcher look like?
 .. How do we get from here to there?
 
-Teaching fMRI
--------------
+Teaching fMRI methods
+----------------------
 
 By JB Poline and Matthew Brett
 
